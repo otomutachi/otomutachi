@@ -1,6 +1,5 @@
 
-🎓 Étudiant en **Licence Informatique** |
-🚀 Toujours en quête de progression
+🎓 Étudiant en **Licence Informatique** 
 
 ---
 
