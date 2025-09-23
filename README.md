@@ -10,12 +10,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 💻 Langages de programmation
-- **Java** : POO, héritage, interfaces, projets RPG textuels  
-- **C** : algorithmique, structures de données, récursivité  
-- **Python** : scripts, algorithmique, graphes (Floyd-Warshall, Kosaraju, etc.)  
-- **JavaScript / Node.js** : serveurs HTTP natifs, Express, APIs REST  
-- **HTML / CSS** : intégration web
+
 
 ### 📚 Domaines d’apprentissage
 - Algorithmique avancée (graphes, optimisation)  
@@ -41,7 +36,5 @@
 
 ---
 
-## 📫 Me contacter
- 
-- 🐙 [GitHub](https://github.com/otomutachi)  
+
 
