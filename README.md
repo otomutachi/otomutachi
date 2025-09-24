@@ -1,5 +1,7 @@
 
-# 🎓 Étudiant en **Licence Informatique** 
+# 💻 OtomuTachi  
+> Étudiant en Licence Informatique | Développement, Réseaux & Créativité
+
 
 ---
 
