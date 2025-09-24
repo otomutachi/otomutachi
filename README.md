@@ -14,24 +14,24 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Content Creation](https://img.shields.io/badge/Content%20Creation-FF4088?style=for-the-badge&logo=creativity&logoColor=white)
 
 
 ### 📚 Domaines d’apprentissage
 - Algorithmique avancée (graphes, optimisation)  
-- Développement Web (Node.js, Express)  
+- Développement Web (Node.js, Express, API REST)  
 - Programmation orientée objets en Java  
-- Réseaux &  système  d'exploitation
-- Bots Discord (Discord.js) 
----
-- 👨‍💻 Ancien **modérateur** des serveurs Discord *Instanime* 20k et *LaZone* 50k 
-  ➝ Gestion de communauté, modération de contenu, organisation et entraide  
+- Bots Discord (Discord.js)  
+- Réseaux & systèmes d'exploitation  
+- Bases de données (SQL)  
+- Création de contenu digital (Discord, TikTok, réseaux sociaux)  
 
 ## 🏗️ Projets notables
 
 - 🎮 **Abyss Leveling** (Java) : RPG textuel inspiré de *Solo Leveling*  
   ➝ Système de donjons, compétences scellables, montée de niveau, récompenses  
 - 🌐 **Serveur HTTP Node.js** : mise en place de routes et gestion de contenu dynamique  
-
+- 🤖 **Bot Discord.js** : automatisation de commandes, modération et gestion de serveurs  
 
 ---
 
