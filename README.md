@@ -23,7 +23,7 @@
 - Réseaux &  système  d'exploitation
 - Bots Discord (Discord.js) 
 ---
-- 👨‍💻 Ancien **modérateur** des serveurs Discord *Instanime*20k et *LaZone* 50k 
+- 👨‍💻 Ancien **modérateur** des serveurs Discord *Instanime* 20k et *LaZone* 50k 
   ➝ Gestion de communauté, modération de contenu, organisation et entraide  
 
 ## 🏗️ Projets notables
