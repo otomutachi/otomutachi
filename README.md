@@ -14,7 +14,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Content Creation](https://img.shields.io/badge/Content%20Creation-FF4088?style=for-the-badge&logo=creativity&logoColor=white)
+
 
 
 ### 📚 Domaines d’apprentissage
