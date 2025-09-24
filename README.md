@@ -39,19 +39,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-  
----
-## 🏗️ Projets notables
-
-- 🎮 **Abyss Leveling** (Java) : RPG textuel inspiré de *Solo Leveling*  
-  ➝ Système de donjons, compétences scellables, montée de niveau, récompenses  
-- 🌐 **Serveur HTTP Node.js** : mise en place de routes et gestion de contenu dynamique  
-- 🤖 **Bot Discord.js** : automatisation de commandes, modération et gestion de serveurs 
-
----
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=otomutachi&show_icons=true&theme=tokyonight)  
