@@ -1,4 +1,4 @@
-
+<img width="1360" height="919" alt="image" src="https://github.com/user-attachments/assets/615a1070-6f67-470a-9775-eaa1feea9da5" />![OtomuTachi Banner](assets/)
 # 💻 OtomuTachi  
 > Étudiant en Licence Informatique | Développement, Réseaux & Créativité
 
@@ -44,7 +44,6 @@
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-1D72B8?style=for-the-badge&logo=pterodactyl&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
   
 ---
