@@ -49,7 +49,7 @@
 - 🎮 **Abyss Leveling** (Java) : RPG textuel inspiré de *Solo Leveling*  
   ➝ Système de donjons, compétences scellables, montée de niveau, récompenses  
 - 🌐 **Serveur HTTP Node.js** : mise en place de routes et gestion de contenu dynamique  
-- 🤖 **Bot Discord.js** : automatisation de commandes, modération et gestion de serveurs  
+- 🤖 **Bot Discord.js** : automatisation de commandes, modération et gestion de serveurs.  
 
 ---
 
